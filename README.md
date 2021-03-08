@@ -1,4 +1,4 @@
-# starter
+# Get_cli example
 
 A new Flutter project.
 
